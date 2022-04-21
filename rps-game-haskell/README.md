@@ -1,7 +1,7 @@
 # rps-game-haskell
 # How to run and play Rock,Paper,Scissors game:
 
-<code>
+
 cardano@vmi719358:~/rps-game-haskell$ stack exec rps-game-haskell-exe
 
 s)tart the RPS Game!'
@@ -32,5 +32,3 @@ CPU chose: Rock
 The winner is: Human
 
 "Make your move Choices are: Rock, Paper, Scissors : "
-
-</code>
